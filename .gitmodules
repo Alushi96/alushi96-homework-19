@@ -1,0 +1,3 @@
+[submodule "user-directory-app"]
+	path = user-directory-app
+	url = https://git.heroku.com/quiet-journey-55809.git
