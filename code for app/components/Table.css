@@ -1,0 +1,9 @@
+thead{
+    border-bottom: 5px;
+    border-top: 5px;
+    border-color: black;
+    border-style: solid;
+    font-weight: bold;
+    margin: 200px 200px 200px 200px;
+    padding: 200px 200px 200px 200px;
+}

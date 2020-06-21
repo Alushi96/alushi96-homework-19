@@ -9,3 +9,5 @@
 4. User can also click the name label in order to order them by first name from A to B.
 
 5. User is presented with the employees Image, Name, Phone, E-mail, and Date of Birth.
+
+I made a code for app directory because i noticed that the user-directory-app directory was not a folder and could not see the code.
